@@ -3,7 +3,17 @@ entries:
   springboot:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-09T12:31:28.843358-08:00"
+    created: "2022-01-09T12:40:41.2052553-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 6231a5c43eae00c8672c026c11f1013149f65edcf0595e301900aa456d07170c
+    name: springboot
+    type: application
+    urls:
+    - https://nallanisai.github.io/helm-springboot/springboot-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-09T12:40:41.2042557-08:00"
     description: A Helm chart for Kubernetes
     digest: ea26bbaace54b2e9f06822ff724a22fbcb846d50de5dc2cbb6687bf72582816b
     name: springboot
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://nallanisai.github.io/helm-springboot/springboot-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-09T12:31:28.8422704-08:00"
+generated: "2022-01-09T12:40:41.2032551-08:00"
